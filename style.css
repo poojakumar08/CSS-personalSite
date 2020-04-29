@@ -1,7 +1,6 @@
 body{
   margin:0;
   background-color: #d7fffd;
-
   text-align: center;
   font-family: "Times New Roman", Times, serif;
 }
@@ -58,9 +57,14 @@ hr{
 }
 .skill-row1{
   margin-right: 300px;
+  text-align: left;	
+}
+.skill-row2{
+  text-align: left;	
 }
 .skill-row3{
   margin-left: 300px;
+  text-align: left;	
 }
 .skill{
   border:dotted #035aa6;
