@@ -9,11 +9,11 @@ body{
   background-attachment: fixed;
   float: left;
 }
-.roses{
-  height: 300px;
-  width:300px;
+.employee{
+  height: 200px;
+  width:200px 50%;
+  text-align: left;
 }
-
 .profilephoto{
   height:100px;
   width:100px;
