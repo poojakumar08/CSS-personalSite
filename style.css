@@ -6,10 +6,6 @@ body{
   font-family: 'Dancing Script', cursive;
 }
 .employee{
-  background-attachment: fixed;
-  float: left;
-}
-.employee{
   height: 200px;
   width:200px ;
 }
