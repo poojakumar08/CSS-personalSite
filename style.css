@@ -57,7 +57,7 @@ hr{
 }
 .skill-row1{
   margin-right: 300px;
-  text-align: left;	
+  float:left;	
 }
 .skill-row2{
   text-align: left;	
