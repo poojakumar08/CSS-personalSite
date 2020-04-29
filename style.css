@@ -5,10 +5,6 @@ body{
   text-align: center;
   font-family: 'Dancing Script', cursive;
 }
-.employee{
-  height: 200px;
-  width:200px ;
-}
 .profilephoto{
   height:100px;
   width:100px;
@@ -37,6 +33,10 @@ hr{
 }
 .middle-container{
   font-size: 1.5rem;
+}
+.employee{
+  height: 200px;
+  width:200px ;
 }
 .chess{
   height: 100px;
